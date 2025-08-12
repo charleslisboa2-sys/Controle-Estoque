@@ -33,6 +33,3 @@ Desenvolver um sistema funcional aplicando conceitos de CRUD, modelagem de dados
 4. Execute o projeto
 
 ---
-
-## 📷 Capturas de Tela
-*(adicione prints aqui)*
